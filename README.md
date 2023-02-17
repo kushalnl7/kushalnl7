@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 </p>
 
 
+### 📈 Github Stats
 ![Kushal's github stats](https://github-readme-stats.vercel.app/api?username=kushalnl7&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushalnl7&&hide=scss,prolog&&langs_count=8&layout=compact&show_icons=true&theme=dark)](https://github.com/kushalnl7/github-readme-stats)
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kushalnl7&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
