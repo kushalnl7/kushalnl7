@@ -1,9 +1,7 @@
 ### Hi there 👋
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Kushal+Lahoti....;Nice+to+meet+you!&center=true&size=25&theme=dark">
-  </a>
-</h1>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3000&width=400&height=33&color=4777C0FF&lines=This+is+Kushal+Lahoti....;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 <!--
 **kushalnl7/kushalnl7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
