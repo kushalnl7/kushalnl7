@@ -27,5 +27,5 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=kushalnl7&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-<img src="https://gpvc.arturio.dev/kushalnl7" alt="profile views">
+[comment]: <> (<img src="https://github-readme-activity-graph.cyclic.app/graph?username=kushalnl7&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>)
+[comment]: <> (<img src="https://gpvc.arturio.dev/kushalnl7" alt="profile views">)
