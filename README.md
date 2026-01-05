@@ -19,12 +19,3 @@
 ### 📝 Recent Articles   
 - [Text File Compression And Decompression Using Huffman Coding](https://www.geeksforgeeks.org/text-file-compression-and-decompression-using-huffman-coding/)
 - [How To Import Data From a CSV File in MySQL?](https://www.geeksforgeeks.org/how-to-import-timestamp-from-a-csv-file-in-mysql/)
-
-
-### 📈 Github Stats
-![Kushal's github stats](https://github-readme-stats.vercel.app/api?username=kushalnl7&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushalnl7&&hide=scss,prolog&&langs_count=8&layout=compact&show_icons=true&theme=dark)](https://github.com/kushalnl7/github-readme-stats)
-
-<br>
-
-[comment]: <> (<img src="https://github-readme-activity-graph.cyclic.app/graph?username=kushalnl7&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>)
-[comment]: <> (<img src="https://gpvc.arturio.dev/kushalnl7" alt="profile views">)
